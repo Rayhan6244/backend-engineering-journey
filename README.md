@@ -1,5 +1,5 @@
 # backend-engineering-journey
-Week 1: Foundations
+#Week 1: Foundations
  Completed onboarding process
  Set up development environment
  Built first Node.js server
