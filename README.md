@@ -5,3 +5,7 @@
 - [x] Built first Node.js server  
 - [ ] Understood HTTP in depth  
 - [ ] Created first API endpoint
+
+# Projects Completd
+- Hello World Server
+
