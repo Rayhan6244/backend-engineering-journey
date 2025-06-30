@@ -4,7 +4,7 @@
 - [x] Set up development environment  
 - [x] Built first Node.js server  
 - [x] Understood HTTP in depth  
-- [x] Created first API endpoint
+- [ ] Created first API endpoint
 
 #  Read about how the internet works
 - [x] Watch few videos about how the internet works
@@ -12,7 +12,7 @@
 - [x] Created and ran your first server
 - [x] Take a screenshot of your browser and send it to the group
 - [x] Checked your public/private IP status
-- [] Prepared 3 questions about networking/servers for discussion
+- [ ] Prepared 3 questions about networking/servers for discussion
 - [x] You made dua for Srejon bhaiya.
 
 # Projects Completd
