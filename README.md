@@ -22,5 +22,11 @@
 
 - [x] Explain the difference between var, let, and const
 - [x] Write and use arrow functions effectively
-- [ ] 
+- [ ] Understand and implement closures for data encapsulation
+- [ ] Handle asynchronous operations with Promises and async/await
+- [ ] Implement proper error handling strategies
+- [ ] Use array methods like map, filter, and reduce
+- [ ] Work with ES6+ features (destructuring, spread operator, template literals)
+- [ ] Debug JavaScript code effectively
+- [ ] Write clean, maintainable code following best practices
 
