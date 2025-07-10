@@ -18,3 +18,9 @@
 # Projects Completd
 - Hello World Server
 
+# Week 2: JavaScript Fundamentals for Backend Development
+
+- [x] Explain the difference between var, let, and const
+- [x] Write and use arrow functions effectively
+- [ ] 
+
