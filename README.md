@@ -12,7 +12,7 @@
 - [x] Created and ran your first server
 - [x] Take a screenshot of your browser and send it to the group
 - [x] Checked your public/private IP status
-- [ ] Prepared 3 questions about networking/servers for discussion
+- [x] Prepared 3 questions about networking/servers for discussion
 - [x] You made dua for Srejon bhaiya.
 
 # Projects Completd
