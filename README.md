@@ -41,4 +41,5 @@
 
 # Projects
 - [x] Count Number
+- [x] Random Number Generator
 
