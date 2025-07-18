@@ -39,3 +39,6 @@
 - [ ] Write clean, maintainable JavaScript code
 - [ ] Debug JavaScript applications effectively
 
+# Projects
+- [x] Count Number
+
