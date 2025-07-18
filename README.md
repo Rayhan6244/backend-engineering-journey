@@ -36,7 +36,7 @@
 - [ ] Work with asynchronous programming patterns
 - [ ] Handle errors effectively in JavaScript applications
 - [ ] Implement functional programming concepts
-- [ ] Write clean, maintainable JavaScript code
+- [x] Write clean, maintainable JavaScript code
 - [ ] Debug JavaScript applications effectively
 
 # Projects
